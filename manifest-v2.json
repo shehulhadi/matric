@@ -2,7 +2,7 @@
   "name": "Matric",
   "short_name": "Matric",
   "description": "One sign-in for your whole campus. Verified academic identity, courses, communities, and messages.",
-  "start_url": "./v2/pages/landing.html",
+  "start_url": "./v2/pages/login.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
